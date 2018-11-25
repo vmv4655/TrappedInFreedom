@@ -1,0 +1,45 @@
+*{padding: 0; margin: 0;}
+
+body, html {
+  height: 100%;
+  width: 100%;
+  margin-bottom: 0;
+}
+
+
+.bg {
+  /* The image used */
+  background-image: url('../images/background.jpg');
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.btn-yt {
+
+    color: #fff;
+    background-color: #ff0000;
+}
+.btn-yt:hover {
+
+    color: #fff;
+    background-color: #cc0000;
+}
+
+.btn-tw {
+    color: #fff;
+    background-color: #00aced;
+}
+.btn-tw:hover {
+    color: #fff;
+    background-color: #009ad5;
+}
+.fab {
+	font-size: 30px;
+}
